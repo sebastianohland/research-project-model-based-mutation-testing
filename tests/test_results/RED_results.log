@@ -1,0 +1,189 @@
+2020-12-18 15:01:04,924 - RED_results - INFO - CHECKING MODELS................................................................................
+
+2020-12-18 15:01:04,925 - PetClinic_RED_e0_e_startBrowser - INFO - Checking model PetClinic_RED_e0_e_startBrowser...
+2020-12-18 15:01:07,101 - PetClinic_RED_e0_e_startBrowser - INFO - CHECK PASSED in 2.18 seconds. Adding PetClinic_RED_e0_e_startBrowser to alive check models.
+
+2020-12-18 15:01:07,101 - PetClinic_RED_e1_e_FindOwners - INFO - Checking model PetClinic_RED_e1_e_FindOwners...
+2020-12-18 15:01:09,236 - PetClinic_RED_e1_e_FindOwners - INFO - CHECK PASSED in 2.14 seconds. Adding PetClinic_RED_e1_e_FindOwners to alive check models.
+
+2020-12-18 15:01:09,237 - PetClinic_RED_e2_e_HomePage - INFO - Checking model PetClinic_RED_e2_e_HomePage...
+2020-12-18 15:01:11,696 - PetClinic_RED_e2_e_HomePage - INFO - CHECK PASSED in 2.46 seconds. Adding PetClinic_RED_e2_e_HomePage to alive check models.
+
+2020-12-18 15:01:11,696 - PetClinic_RED_e3_e_Veterinarians - INFO - Checking model PetClinic_RED_e3_e_Veterinarians...
+2020-12-18 15:01:13,812 - PetClinic_RED_e3_e_Veterinarians - INFO - CHECK PASSED in 2.12 seconds. Adding PetClinic_RED_e3_e_Veterinarians to alive check models.
+
+2020-12-18 15:01:13,812 - PetClinic_RED_e4_e_HomePage - INFO - Checking model PetClinic_RED_e4_e_HomePage...
+2020-12-18 15:01:15,992 - PetClinic_RED_e4_e_HomePage - INFO - CHECK PASSED in 2.18 seconds. Adding PetClinic_RED_e4_e_HomePage to alive check models.
+
+2020-12-18 15:01:15,992 - PetClinic_RED_e5_e_Veterinarians - INFO - Checking model PetClinic_RED_e5_e_Veterinarians...
+2020-12-18 15:01:18,119 - PetClinic_RED_e5_e_Veterinarians - INFO - CHECK PASSED in 2.13 seconds. Adding PetClinic_RED_e5_e_Veterinarians to alive check models.
+
+2020-12-18 15:01:18,119 - PetClinic_RED_e6_e_FindOwners - INFO - Checking model PetClinic_RED_e6_e_FindOwners...
+2020-12-18 15:01:20,367 - PetClinic_RED_e6_e_FindOwners - INFO - CHECK PASSED in 2.25 seconds. Adding PetClinic_RED_e6_e_FindOwners to alive check models.
+
+2020-12-18 15:01:20,367 - PetClinic_RED_e7_e_ClearSearchVeterinarians - INFO - Checking model PetClinic_RED_e7_e_ClearSearchVeterinarians...
+2020-12-18 15:01:22,613 - PetClinic_RED_e7_e_ClearSearchVeterinarians - ERROR - CHECK FAILED in 2.25 seconds. Adding PetClinic_RED_e7_e_ClearSearchVeterinarians to killed check models.
+
+2020-12-18 15:01:22,613 - PetClinic_RED_e8_e_SearchVeterinarians - INFO - Checking model PetClinic_RED_e8_e_SearchVeterinarians...
+2020-12-18 15:01:24,908 - PetClinic_RED_e8_e_SearchVeterinarians - INFO - CHECK PASSED in 2.29 seconds. Adding PetClinic_RED_e8_e_SearchVeterinarians to alive check models.
+
+2020-12-18 15:01:24,908 - PetClinic_RED_e9_e_SearchOwners - INFO - Checking model PetClinic_RED_e9_e_SearchOwners...
+2020-12-18 15:01:27,440 - PetClinic_RED_e9_e_SearchOwners - INFO - CHECK PASSED in 2.53 seconds. Adding PetClinic_RED_e9_e_SearchOwners to alive check models.
+
+2020-12-18 15:01:27,440 - PetClinic_RED_e10_e_FindOwners - INFO - Checking model PetClinic_RED_e10_e_FindOwners...
+2020-12-18 15:01:29,684 - PetClinic_RED_e10_e_FindOwners - ERROR - CHECK FAILED in 2.24 seconds. Adding PetClinic_RED_e10_e_FindOwners to killed check models.
+
+2020-12-18 15:01:29,684 - PetClinic_RED_e11_e_AddOwner - INFO - Checking model PetClinic_RED_e11_e_AddOwner...
+2020-12-18 15:01:32,097 - PetClinic_RED_e11_e_AddOwner - INFO - CHECK PASSED in 2.41 seconds. Adding PetClinic_RED_e11_e_AddOwner to alive check models.
+
+2020-12-18 15:01:32,097 - PetClinic_RED_e12_e_FindOwners - INFO - Checking model PetClinic_RED_e12_e_FindOwners...
+2020-12-18 15:01:34,344 - PetClinic_RED_e12_e_FindOwners - INFO - CHECK PASSED in 2.25 seconds. Adding PetClinic_RED_e12_e_FindOwners to alive check models.
+
+2020-12-18 15:01:34,345 - PetClinic_RED_e13_e_CorrectNewOwnerData - INFO - Checking model PetClinic_RED_e13_e_CorrectNewOwnerData...
+2020-12-18 15:01:36,454 - PetClinic_RED_e13_e_CorrectNewOwnerData - INFO - CHECK PASSED in 2.11 seconds. Adding PetClinic_RED_e13_e_CorrectNewOwnerData to alive check models.
+
+2020-12-18 15:01:36,455 - PetClinic_RED_e14_e_IncorrectNewOwnerData - INFO - Checking model PetClinic_RED_e14_e_IncorrectNewOwnerData...
+2020-12-18 15:01:38,562 - PetClinic_RED_e14_e_IncorrectNewOwnerData - INFO - CHECK PASSED in 2.11 seconds. Adding PetClinic_RED_e14_e_IncorrectNewOwnerData to alive check models.
+
+2020-12-18 15:01:38,563 - PetClinic_RED_e15_e_NewOwnerFailed - INFO - Checking model PetClinic_RED_e15_e_NewOwnerFailed...
+2020-12-18 15:01:40,904 - PetClinic_RED_e15_e_NewOwnerFailed - ERROR - CHECK FAILED in 2.34 seconds. Adding PetClinic_RED_e15_e_NewOwnerFailed to killed check models.
+
+2020-12-18 15:01:40,904 - PetClinic_RED_e16_e_FindOwners - INFO - Checking model PetClinic_RED_e16_e_FindOwners...
+2020-12-18 15:01:43,478 - PetClinic_RED_e16_e_FindOwners - INFO - CHECK PASSED in 2.57 seconds. Adding PetClinic_RED_e16_e_FindOwners to alive check models.
+
+2020-12-18 15:01:43,478 - PetClinic_RED_e17_e_AddNewPet - INFO - Checking model PetClinic_RED_e17_e_AddNewPet...
+2020-12-18 15:01:45,703 - PetClinic_RED_e17_e_AddNewPet - INFO - CHECK PASSED in 2.22 seconds. Adding PetClinic_RED_e17_e_AddNewPet to alive check models.
+
+2020-12-18 15:01:45,703 - PetClinic_RED_e18_e_AddNewPetSuccessful - INFO - Checking model PetClinic_RED_e18_e_AddNewPetSuccessful...
+2020-12-18 15:01:47,783 - PetClinic_RED_e18_e_AddNewPetSuccessful - INFO - CHECK PASSED in 2.08 seconds. Adding PetClinic_RED_e18_e_AddNewPetSuccessful to alive check models.
+
+2020-12-18 15:01:47,784 - PetClinic_RED_e19_e_AddNewPetFailed - INFO - Checking model PetClinic_RED_e19_e_AddNewPetFailed...
+2020-12-18 15:01:49,910 - PetClinic_RED_e19_e_AddNewPetFailed - INFO - CHECK PASSED in 2.13 seconds. Adding PetClinic_RED_e19_e_AddNewPetFailed to alive check models.
+
+2020-12-18 15:01:49,911 - PetClinic_RED_e20_e_EditPet - INFO - Checking model PetClinic_RED_e20_e_EditPet...
+2020-12-18 15:01:52,089 - PetClinic_RED_e20_e_EditPet - INFO - CHECK PASSED in 2.18 seconds. Adding PetClinic_RED_e20_e_EditPet to alive check models.
+
+2020-12-18 15:01:52,089 - PetClinic_RED_e21_e_UpdatePet - INFO - Checking model PetClinic_RED_e21_e_UpdatePet...
+2020-12-18 15:01:54,357 - PetClinic_RED_e21_e_UpdatePet - ERROR - CHECK FAILED in 2.27 seconds. Adding PetClinic_RED_e21_e_UpdatePet to killed check models.
+
+2020-12-18 15:01:54,357 - PetClinic_RED_e22_e_AddVisit - INFO - Checking model PetClinic_RED_e22_e_AddVisit...
+2020-12-18 15:01:56,873 - PetClinic_RED_e22_e_AddVisit - INFO - CHECK PASSED in 2.52 seconds. Adding PetClinic_RED_e22_e_AddVisit to alive check models.
+
+2020-12-18 15:01:56,873 - PetClinic_RED_e23_e_AddVisitSuccessful - INFO - Checking model PetClinic_RED_e23_e_AddVisitSuccessful...
+2020-12-18 15:01:59,298 - PetClinic_RED_e23_e_AddVisitSuccessful - INFO - CHECK PASSED in 2.43 seconds. Adding PetClinic_RED_e23_e_AddVisitSuccessful to alive check models.
+
+2020-12-18 15:01:59,298 - PetClinic_RED_e24_e_AddVisitFailed - INFO - Checking model PetClinic_RED_e24_e_AddVisitFailed...
+2020-12-18 15:02:01,731 - PetClinic_RED_e24_e_AddVisitFailed - INFO - CHECK PASSED in 2.43 seconds. Adding PetClinic_RED_e24_e_AddVisitFailed to alive check models.
+
+2020-12-18 15:02:01,731 - RED_results - INFO - Checking finished in 56.81 seconds! 21 models passed, 4 models failed.
+
+2020-12-18 15:02:01,731 - RED_results - INFO - TESTING MODELS....................................................................................
+
+2020-12-18 15:02:01,732 - PetClinic_RED_e0_e_startBrowser - INFO - Testing model PetClinic_RED_e0_e_startBrowser...
+2020-12-18 15:02:26,242 - PetClinic_RED_e0_e_startBrowser - INFO - TEST PASSED in 24.51 seconds. Adding PetClinic_RED_e0_e_startBrowser to alive test models.
+
+2020-12-18 15:02:26,242 - PetClinic_RED_e1_e_FindOwners - INFO - Testing model PetClinic_RED_e1_e_FindOwners...
+2020-12-18 15:02:52,503 - PetClinic_RED_e1_e_FindOwners - ERROR - TEST FAILED in 26.26 seconds. Adding PetClinic_RED_e1_e_FindOwners to killed test models.
+
+2020-12-18 15:02:52,503 - PetClinic_RED_e2_e_HomePage - INFO - Testing model PetClinic_RED_e2_e_HomePage...
+2020-12-18 15:03:06,967 - PetClinic_RED_e2_e_HomePage - ERROR - TEST FAILED in 14.46 seconds. Adding PetClinic_RED_e2_e_HomePage to killed test models.
+
+2020-12-18 15:03:06,967 - PetClinic_RED_e3_e_Veterinarians - INFO - Testing model PetClinic_RED_e3_e_Veterinarians...
+2020-12-18 15:03:24,868 - PetClinic_RED_e3_e_Veterinarians - ERROR - TEST FAILED in 17.9 seconds. Adding PetClinic_RED_e3_e_Veterinarians to killed test models.
+
+2020-12-18 15:03:24,868 - PetClinic_RED_e4_e_HomePage - INFO - Testing model PetClinic_RED_e4_e_HomePage...
+2020-12-18 15:03:47,942 - PetClinic_RED_e4_e_HomePage - ERROR - TEST FAILED in 23.07 seconds. Adding PetClinic_RED_e4_e_HomePage to killed test models.
+
+2020-12-18 15:03:47,942 - PetClinic_RED_e5_e_Veterinarians - INFO - Testing model PetClinic_RED_e5_e_Veterinarians...
+2020-12-18 15:03:58,736 - PetClinic_RED_e5_e_Veterinarians - ERROR - TEST FAILED in 10.79 seconds. Adding PetClinic_RED_e5_e_Veterinarians to killed test models.
+
+2020-12-18 15:03:58,737 - PetClinic_RED_e6_e_FindOwners - INFO - Testing model PetClinic_RED_e6_e_FindOwners...
+2020-12-18 15:04:19,329 - PetClinic_RED_e6_e_FindOwners - ERROR - TEST FAILED in 20.59 seconds. Adding PetClinic_RED_e6_e_FindOwners to killed test models.
+
+2020-12-18 15:04:19,329 - PetClinic_RED_e8_e_SearchVeterinarians - INFO - Testing model PetClinic_RED_e8_e_SearchVeterinarians...
+2020-12-18 15:07:42,281 - PetClinic_RED_e8_e_SearchVeterinarians - ERROR - TEST TIMED OUT in 202.95 seconds. Adding PetClinic_RED_e8_e_SearchVeterinarians to timed out test models.
+
+2020-12-18 15:07:42,281 - PetClinic_RED_e9_e_SearchOwners - INFO - Testing model PetClinic_RED_e9_e_SearchOwners...
+2020-12-18 15:11:05,102 - PetClinic_RED_e9_e_SearchOwners - ERROR - TEST TIMED OUT in 202.82 seconds. Adding PetClinic_RED_e9_e_SearchOwners to timed out test models.
+
+2020-12-18 15:11:05,102 - PetClinic_RED_e11_e_AddOwner - INFO - Testing model PetClinic_RED_e11_e_AddOwner...
+2020-12-18 15:14:27,785 - PetClinic_RED_e11_e_AddOwner - ERROR - TEST TIMED OUT in 202.68 seconds. Adding PetClinic_RED_e11_e_AddOwner to timed out test models.
+
+2020-12-18 15:14:27,785 - PetClinic_RED_e12_e_FindOwners - INFO - Testing model PetClinic_RED_e12_e_FindOwners...
+2020-12-18 15:14:42,744 - PetClinic_RED_e12_e_FindOwners - ERROR - TEST FAILED in 14.96 seconds. Adding PetClinic_RED_e12_e_FindOwners to killed test models.
+
+2020-12-18 15:14:42,744 - PetClinic_RED_e13_e_CorrectNewOwnerData - INFO - Testing model PetClinic_RED_e13_e_CorrectNewOwnerData...
+2020-12-18 15:18:05,398 - PetClinic_RED_e13_e_CorrectNewOwnerData - ERROR - TEST TIMED OUT in 202.65 seconds. Adding PetClinic_RED_e13_e_CorrectNewOwnerData to timed out test models.
+
+2020-12-18 15:18:05,399 - PetClinic_RED_e14_e_IncorrectNewOwnerData - INFO - Testing model PetClinic_RED_e14_e_IncorrectNewOwnerData...
+2020-12-18 15:21:28,151 - PetClinic_RED_e14_e_IncorrectNewOwnerData - ERROR - TEST TIMED OUT in 202.75 seconds. Adding PetClinic_RED_e14_e_IncorrectNewOwnerData to timed out test models.
+
+2020-12-18 15:21:28,152 - PetClinic_RED_e16_e_FindOwners - INFO - Testing model PetClinic_RED_e16_e_FindOwners...
+2020-12-18 15:22:06,492 - PetClinic_RED_e16_e_FindOwners - ERROR - TEST FAILED in 38.34 seconds. Adding PetClinic_RED_e16_e_FindOwners to killed test models.
+
+2020-12-18 15:22:06,492 - PetClinic_RED_e17_e_AddNewPet - INFO - Testing model PetClinic_RED_e17_e_AddNewPet...
+2020-12-18 15:25:30,319 - PetClinic_RED_e17_e_AddNewPet - ERROR - TEST TIMED OUT in 203.83 seconds. Adding PetClinic_RED_e17_e_AddNewPet to timed out test models.
+
+2020-12-18 15:25:30,319 - PetClinic_RED_e18_e_AddNewPetSuccessful - INFO - Testing model PetClinic_RED_e18_e_AddNewPetSuccessful...
+2020-12-18 15:28:54,233 - PetClinic_RED_e18_e_AddNewPetSuccessful - ERROR - TEST TIMED OUT in 203.91 seconds. Adding PetClinic_RED_e18_e_AddNewPetSuccessful to timed out test models.
+
+2020-12-18 15:28:54,234 - PetClinic_RED_e19_e_AddNewPetFailed - INFO - Testing model PetClinic_RED_e19_e_AddNewPetFailed...
+2020-12-18 15:29:18,425 - PetClinic_RED_e19_e_AddNewPetFailed - INFO - TEST PASSED in 24.19 seconds. Adding PetClinic_RED_e19_e_AddNewPetFailed to alive test models.
+
+2020-12-18 15:29:18,425 - PetClinic_RED_e20_e_EditPet - INFO - Testing model PetClinic_RED_e20_e_EditPet...
+2020-12-18 15:32:41,811 - PetClinic_RED_e20_e_EditPet - ERROR - TEST TIMED OUT in 203.39 seconds. Adding PetClinic_RED_e20_e_EditPet to timed out test models.
+
+2020-12-18 15:32:41,811 - PetClinic_RED_e22_e_AddVisit - INFO - Testing model PetClinic_RED_e22_e_AddVisit...
+2020-12-18 15:36:05,447 - PetClinic_RED_e22_e_AddVisit - ERROR - TEST TIMED OUT in 203.64 seconds. Adding PetClinic_RED_e22_e_AddVisit to timed out test models.
+
+2020-12-18 15:36:05,447 - PetClinic_RED_e23_e_AddVisitSuccessful - INFO - Testing model PetClinic_RED_e23_e_AddVisitSuccessful...
+2020-12-18 15:36:33,078 - PetClinic_RED_e23_e_AddVisitSuccessful - ERROR - TEST FAILED in 27.63 seconds. Adding PetClinic_RED_e23_e_AddVisitSuccessful to killed test models.
+
+2020-12-18 15:36:33,078 - PetClinic_RED_e24_e_AddVisitFailed - INFO - Testing model PetClinic_RED_e24_e_AddVisitFailed...
+2020-12-18 15:36:56,889 - PetClinic_RED_e24_e_AddVisitFailed - INFO - TEST PASSED in 23.81 seconds. Adding PetClinic_RED_e24_e_AddVisitFailed to alive test models.
+
+2020-12-18 15:36:56,889 - RED_results - INFO - Testing finished in 2095.16 seconds! 3 models passed, 9 models failed, 0 models crashed, 9 models timed out.
+
+2020-12-18 15:36:56,889 - RED_results - INFO - RESULTS...........................................................................................
+
+2020-12-18 15:36:56,889 - RED_results - INFO - Total models: 25
+
+2020-12-18 15:36:56,889 - RED_results - INFO - Models that were syntactically invalid (failed altwalker check): (4)
+PetClinic_RED_e7_e_ClearSearchVeterinarians
+PetClinic_RED_e10_e_FindOwners
+PetClinic_RED_e15_e_NewOwnerFailed
+PetClinic_RED_e21_e_UpdatePet
+
+2020-12-18 15:36:56,891 - RED_results - INFO - Models that were killed by failing one (or more) of the tests: (9)
+PetClinic_RED_e1_e_FindOwners
+PetClinic_RED_e2_e_HomePage
+PetClinic_RED_e3_e_Veterinarians
+PetClinic_RED_e4_e_HomePage
+PetClinic_RED_e5_e_Veterinarians
+PetClinic_RED_e6_e_FindOwners
+PetClinic_RED_e12_e_FindOwners
+PetClinic_RED_e16_e_FindOwners
+PetClinic_RED_e23_e_AddVisitSuccessful
+
+2020-12-18 15:36:56,892 - RED_results - INFO - Models that were killed by crashing the tests: (0)
+
+
+2020-12-18 15:36:56,892 - RED_results - INFO - Models that were killed by timing out: (9)
+PetClinic_RED_e8_e_SearchVeterinarians
+PetClinic_RED_e9_e_SearchOwners
+PetClinic_RED_e11_e_AddOwner
+PetClinic_RED_e13_e_CorrectNewOwnerData
+PetClinic_RED_e14_e_IncorrectNewOwnerData
+PetClinic_RED_e17_e_AddNewPet
+PetClinic_RED_e18_e_AddNewPetSuccessful
+PetClinic_RED_e20_e_EditPet
+PetClinic_RED_e22_e_AddVisit
+
+2020-12-18 15:36:56,892 - RED_results - INFO - Models that encoutered command line errors (should be 0 if not faulty input from cl): (0)
+
+
+2020-12-18 15:36:56,892 - RED_results - INFO - Models that are still alive: (3)
+PetClinic_RED_e0_e_startBrowser
+PetClinic_RED_e19_e_AddNewPetFailed
+PetClinic_RED_e24_e_AddVisitFailed
+

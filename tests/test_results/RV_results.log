@@ -1,0 +1,73 @@
+2020-12-18 15:00:39,820 - RV_results - INFO - CHECKING MODELS................................................................................
+
+2020-12-18 15:00:39,821 - PetClinic_RV_v0_v_HomePage - INFO - Checking model PetClinic_RV_v0_v_HomePage...
+2020-12-18 15:00:41,890 - PetClinic_RV_v0_v_HomePage - ERROR - CHECK FAILED in 2.07 seconds. Adding PetClinic_RV_v0_v_HomePage to killed check models.
+
+2020-12-18 15:00:41,891 - PetClinic_RV_v1_v_FindOwners - INFO - Checking model PetClinic_RV_v1_v_FindOwners...
+2020-12-18 15:00:44,158 - PetClinic_RV_v1_v_FindOwners - ERROR - CHECK FAILED in 2.27 seconds. Adding PetClinic_RV_v1_v_FindOwners to killed check models.
+
+2020-12-18 15:00:44,158 - PetClinic_RV_v2_v_Veterinarians - INFO - Checking model PetClinic_RV_v2_v_Veterinarians...
+2020-12-18 15:00:46,230 - PetClinic_RV_v2_v_Veterinarians - ERROR - CHECK FAILED in 2.07 seconds. Adding PetClinic_RV_v2_v_Veterinarians to killed check models.
+
+2020-12-18 15:00:46,230 - PetClinic_RV_v3_v_SearchResult - INFO - Checking model PetClinic_RV_v3_v_SearchResult...
+2020-12-18 15:00:48,337 - PetClinic_RV_v3_v_SearchResult - ERROR - CHECK FAILED in 2.11 seconds. Adding PetClinic_RV_v3_v_SearchResult to killed check models.
+
+2020-12-18 15:00:48,337 - PetClinic_RV_v4_v_Owners - INFO - Checking model PetClinic_RV_v4_v_Owners...
+2020-12-18 15:00:50,607 - PetClinic_RV_v4_v_Owners - ERROR - CHECK FAILED in 2.27 seconds. Adding PetClinic_RV_v4_v_Owners to killed check models.
+
+2020-12-18 15:00:50,607 - PetClinic_RV_v5_v_NewOwner - INFO - Checking model PetClinic_RV_v5_v_NewOwner...
+2020-12-18 15:00:52,843 - PetClinic_RV_v5_v_NewOwner - ERROR - CHECK FAILED in 2.24 seconds. Adding PetClinic_RV_v5_v_NewOwner to killed check models.
+
+2020-12-18 15:00:52,843 - PetClinic_RV_v6_v_OwnerInformation - INFO - Checking model PetClinic_RV_v6_v_OwnerInformation...
+2020-12-18 15:00:55,271 - PetClinic_RV_v6_v_OwnerInformation - ERROR - CHECK FAILED in 2.43 seconds. Adding PetClinic_RV_v6_v_OwnerInformation to killed check models.
+
+2020-12-18 15:00:55,272 - PetClinic_RV_v7_v_IncorrectNewOwnerData - INFO - Checking model PetClinic_RV_v7_v_IncorrectNewOwnerData...
+2020-12-18 15:00:57,477 - PetClinic_RV_v7_v_IncorrectNewOwnerData - ERROR - CHECK FAILED in 2.21 seconds. Adding PetClinic_RV_v7_v_IncorrectNewOwnerData to killed check models.
+
+2020-12-18 15:00:57,477 - PetClinic_RV_v8_v_NewPet - INFO - Checking model PetClinic_RV_v8_v_NewPet...
+2020-12-18 15:00:59,821 - PetClinic_RV_v8_v_NewPet - ERROR - CHECK FAILED in 2.34 seconds. Adding PetClinic_RV_v8_v_NewPet to killed check models.
+
+2020-12-18 15:00:59,821 - PetClinic_RV_v9_v_Pet - INFO - Checking model PetClinic_RV_v9_v_Pet...
+2020-12-18 15:01:02,043 - PetClinic_RV_v9_v_Pet - ERROR - CHECK FAILED in 2.22 seconds. Adding PetClinic_RV_v9_v_Pet to killed check models.
+
+2020-12-18 15:01:02,043 - PetClinic_RV_v10_v_NewVisit - INFO - Checking model PetClinic_RV_v10_v_NewVisit...
+2020-12-18 15:01:04,920 - PetClinic_RV_v10_v_NewVisit - ERROR - CHECK FAILED in 2.88 seconds. Adding PetClinic_RV_v10_v_NewVisit to killed check models.
+
+2020-12-18 15:01:04,920 - RV_results - INFO - Checking finished in 25.1 seconds! 0 models passed, 11 models failed.
+
+2020-12-18 15:01:04,921 - RV_results - INFO - TESTING MODELS....................................................................................
+
+2020-12-18 15:01:04,921 - RV_results - INFO - Testing finished in 0.0 seconds! 0 models passed, 0 models failed, 0 models crashed, 0 models timed out.
+
+2020-12-18 15:01:04,921 - RV_results - INFO - RESULTS...........................................................................................
+
+2020-12-18 15:01:04,921 - RV_results - INFO - Total models: 11
+
+2020-12-18 15:01:04,921 - RV_results - INFO - Models that were syntactically invalid (failed altwalker check): (11)
+PetClinic_RV_v0_v_HomePage
+PetClinic_RV_v1_v_FindOwners
+PetClinic_RV_v2_v_Veterinarians
+PetClinic_RV_v3_v_SearchResult
+PetClinic_RV_v4_v_Owners
+PetClinic_RV_v5_v_NewOwner
+PetClinic_RV_v6_v_OwnerInformation
+PetClinic_RV_v7_v_IncorrectNewOwnerData
+PetClinic_RV_v8_v_NewPet
+PetClinic_RV_v9_v_Pet
+PetClinic_RV_v10_v_NewVisit
+
+2020-12-18 15:01:04,922 - RV_results - INFO - Models that were killed by failing one (or more) of the tests: (0)
+
+
+2020-12-18 15:01:04,922 - RV_results - INFO - Models that were killed by crashing the tests: (0)
+
+
+2020-12-18 15:01:04,922 - RV_results - INFO - Models that were killed by timing out: (0)
+
+
+2020-12-18 15:01:04,922 - RV_results - INFO - Models that encoutered command line errors (should be 0 if not faulty input from cl): (0)
+
+
+2020-12-18 15:01:04,922 - RV_results - INFO - Models that are still alive: (0)
+
+

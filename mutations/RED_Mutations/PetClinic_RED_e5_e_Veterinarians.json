@@ -1,0 +1,219 @@
+{
+    "models": [
+        {
+            "name": "PetClinic",
+            "generator": "random(edge_coverage(100))",
+            "startElementId": "e0",
+            "actions": [
+                "numOfPets=0;"
+            ],
+            "vertices": [
+                {
+                    "id": "v0",
+                    "name": "v_HomePage"
+                },
+                {
+                    "id": "v1",
+                    "name": "v_FindOwners"
+                },
+                {
+                    "id": "v2",
+                    "name": "v_Veterinarians"
+                },
+                {
+                    "id": "v3",
+                    "name": "v_SearchResult"
+                },
+                {
+                    "id": "v4",
+                    "name": "v_Owners"
+                },
+                {
+                    "id": "v5",
+                    "name": "v_NewOwner"
+                },
+                {
+                    "id": "v6",
+                    "name": "v_OwnerInformation"
+                },
+                {
+                    "id": "v7",
+                    "name": "v_IncorrectNewOwnerData"
+                },
+                {
+                    "id": "v8",
+                    "name": "v_NewPet"
+                },
+                {
+                    "id": "v9",
+                    "name": "v_Pet"
+                },
+                {
+                    "id": "v10",
+                    "name": "v_NewVisit"
+                }
+            ],
+            "edges": [
+                {
+                    "id": "e0",
+                    "name": "e_startBrowser",
+                    "sourceVertexId": "v0",
+                    "targetVertexId": "v0"
+                },
+                {
+                    "id": "e1",
+                    "sourceVertexId": "v0",
+                    "targetVertexId": "v1",
+                    "name": "e_FindOwners"
+                },
+                {
+                    "id": "e2",
+                    "name": "e_HomePage",
+                    "sourceVertexId": "v1",
+                    "targetVertexId": "v0"
+                },
+                {
+                    "id": "e3",
+                    "name": "e_Veterinarians",
+                    "sourceVertexId": "v0",
+                    "targetVertexId": "v2"
+                },
+                {
+                    "id": "e4",
+                    "name": "e_HomePage",
+                    "sourceVertexId": "v2",
+                    "targetVertexId": "v0"
+                },
+                {
+                    "id": "e5",
+                    "name": "e_Veterinarians",
+                    "sourceVertexId": "v2",
+                    "targetVertexId": "v1"
+                },
+                {
+                    "id": "e6",
+                    "name": "e_FindOwners",
+                    "sourceVertexId": "v2",
+                    "targetVertexId": "v1"
+                },
+                {
+                    "id": "e7",
+                    "name": "e_ClearSearchVeterinarians",
+                    "sourceVertexId": "v3",
+                    "targetVertexId": "v2"
+                },
+                {
+                    "id": "e8",
+                    "name": "e_SearchVeterinarians",
+                    "sourceVertexId": "v2",
+                    "targetVertexId": "v3"
+                },
+                {
+                    "id": "e9",
+                    "name": "e_SearchOwners",
+                    "sourceVertexId": "v1",
+                    "targetVertexId": "v4"
+                },
+                {
+                    "id": "e10",
+                    "sourceVertexId": "v4",
+                    "targetVertexId": "v1",
+                    "name": "e_FindOwners"
+                },
+                {
+                    "id": "e11",
+                    "name": "e_AddOwner",
+                    "sourceVertexId": "v1",
+                    "targetVertexId": "v5"
+                },
+                {
+                    "id": "e12",
+                    "name": "e_FindOwners",
+                    "sourceVertexId": "v5",
+                    "targetVertexId": "v1"
+                },
+                {
+                    "id": "e13",
+                    "name": "e_CorrectNewOwnerData",
+                    "sourceVertexId": "v5",
+                    "targetVertexId": "v6",
+                    "actions": [
+                        "numOfPets=0;"
+                    ]
+                },
+                {
+                    "id": "e14",
+                    "name": "e_IncorrectNewOwnerData",
+                    "sourceVertexId": "v5",
+                    "targetVertexId": "v7"
+                },
+                {
+                    "id": "e15",
+                    "name": "e_NewOwnerFailed",
+                    "sourceVertexId": "v7",
+                    "targetVertexId": "v5"
+                },
+                {
+                    "id": "e16",
+                    "name": "e_FindOwners",
+                    "sourceVertexId": "v6",
+                    "targetVertexId": "v1"
+                },
+                {
+                    "id": "e17",
+                    "name": "e_AddNewPet",
+                    "sourceVertexId": "v6",
+                    "targetVertexId": "v8"
+                },
+                {
+                    "id": "e18",
+                    "sourceVertexId": "v8",
+                    "targetVertexId": "v6",
+                    "name": "e_AddNewPetSuccessful",
+                    "actions": [
+                        "numOfPets++;"
+                    ]
+                },
+                {
+                    "id": "e19",
+                    "name": "e_AddNewPetFailed",
+                    "sourceVertexId": "v8",
+                    "targetVertexId": "v8"
+                },
+                {
+                    "id": "e20",
+                    "name": "e_EditPet",
+                    "sourceVertexId": "v6",
+                    "targetVertexId": "v9",
+                    "guard": "numOfPets > 0"
+                },
+                {
+                    "id": "e21",
+                    "name": "e_UpdatePet",
+                    "sourceVertexId": "v9",
+                    "targetVertexId": "v6"
+                },
+                {
+                    "id": "e22",
+                    "name": "e_AddVisit",
+                    "sourceVertexId": "v6",
+                    "targetVertexId": "v10",
+                    "guard": "numOfPets > 0"
+                },
+                {
+                    "id": "e23",
+                    "name": "e_AddVisitSuccessful",
+                    "sourceVertexId": "v10",
+                    "targetVertexId": "v6"
+                },
+                {
+                    "id": "e24",
+                    "name": "e_AddVisitFailed",
+                    "sourceVertexId": "v10",
+                    "targetVertexId": "v10"
+                }
+            ],
+            "description": "PetClinic_RED_e5_e_Veterinarians"
+        }
+    ]
+}

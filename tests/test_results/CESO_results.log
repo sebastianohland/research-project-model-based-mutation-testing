@@ -1,0 +1,192 @@
+2020-12-18 15:36:56,894 - CESO_results - INFO - CHECKING MODELS................................................................................
+
+2020-12-18 15:36:56,894 - PetClinic_CESO_e0_e_startBrowser - INFO - Checking model PetClinic_CESO_e0_e_startBrowser...
+2020-12-18 15:36:58,837 - PetClinic_CESO_e0_e_startBrowser - INFO - CHECK PASSED in 1.94 seconds. Adding PetClinic_CESO_e0_e_startBrowser to alive check models.
+
+2020-12-18 15:36:58,838 - PetClinic_CESO_e1_e_FindOwners - INFO - Checking model PetClinic_CESO_e1_e_FindOwners...
+2020-12-18 15:37:00,968 - PetClinic_CESO_e1_e_FindOwners - INFO - CHECK PASSED in 2.13 seconds. Adding PetClinic_CESO_e1_e_FindOwners to alive check models.
+
+2020-12-18 15:37:00,968 - PetClinic_CESO_e2_e_HomePage - INFO - Checking model PetClinic_CESO_e2_e_HomePage...
+2020-12-18 15:37:02,912 - PetClinic_CESO_e2_e_HomePage - INFO - CHECK PASSED in 1.94 seconds. Adding PetClinic_CESO_e2_e_HomePage to alive check models.
+
+2020-12-18 15:37:02,912 - PetClinic_CESO_e3_e_Veterinarians - INFO - Checking model PetClinic_CESO_e3_e_Veterinarians...
+2020-12-18 15:37:04,836 - PetClinic_CESO_e3_e_Veterinarians - INFO - CHECK PASSED in 1.92 seconds. Adding PetClinic_CESO_e3_e_Veterinarians to alive check models.
+
+2020-12-18 15:37:04,836 - PetClinic_CESO_e4_e_HomePage - INFO - Checking model PetClinic_CESO_e4_e_HomePage...
+2020-12-18 15:37:06,738 - PetClinic_CESO_e4_e_HomePage - INFO - CHECK PASSED in 1.9 seconds. Adding PetClinic_CESO_e4_e_HomePage to alive check models.
+
+2020-12-18 15:37:06,738 - PetClinic_CESO_e5_e_Veterinarians - INFO - Checking model PetClinic_CESO_e5_e_Veterinarians...
+2020-12-18 15:37:08,658 - PetClinic_CESO_e5_e_Veterinarians - INFO - CHECK PASSED in 1.92 seconds. Adding PetClinic_CESO_e5_e_Veterinarians to alive check models.
+
+2020-12-18 15:37:08,658 - PetClinic_CESO_e6_e_FindOwners - INFO - Checking model PetClinic_CESO_e6_e_FindOwners...
+2020-12-18 15:37:10,595 - PetClinic_CESO_e6_e_FindOwners - INFO - CHECK PASSED in 1.94 seconds. Adding PetClinic_CESO_e6_e_FindOwners to alive check models.
+
+2020-12-18 15:37:10,595 - PetClinic_CESO_e7_e_ClearSearchVeterinarians - INFO - Checking model PetClinic_CESO_e7_e_ClearSearchVeterinarians...
+2020-12-18 15:37:12,541 - PetClinic_CESO_e7_e_ClearSearchVeterinarians - ERROR - CHECK FAILED in 1.95 seconds. Adding PetClinic_CESO_e7_e_ClearSearchVeterinarians to killed check models.
+
+2020-12-18 15:37:12,541 - PetClinic_CESO_e8_e_SearchVeterinarians - INFO - Checking model PetClinic_CESO_e8_e_SearchVeterinarians...
+2020-12-18 15:37:14,452 - PetClinic_CESO_e8_e_SearchVeterinarians - INFO - CHECK PASSED in 1.91 seconds. Adding PetClinic_CESO_e8_e_SearchVeterinarians to alive check models.
+
+2020-12-18 15:37:14,453 - PetClinic_CESO_e9_e_SearchOwners - INFO - Checking model PetClinic_CESO_e9_e_SearchOwners...
+2020-12-18 15:37:16,708 - PetClinic_CESO_e9_e_SearchOwners - INFO - CHECK PASSED in 2.26 seconds. Adding PetClinic_CESO_e9_e_SearchOwners to alive check models.
+
+2020-12-18 15:37:16,708 - PetClinic_CESO_e10_e_FindOwners - INFO - Checking model PetClinic_CESO_e10_e_FindOwners...
+2020-12-18 15:37:18,920 - PetClinic_CESO_e10_e_FindOwners - ERROR - CHECK FAILED in 2.21 seconds. Adding PetClinic_CESO_e10_e_FindOwners to killed check models.
+
+2020-12-18 15:37:18,920 - PetClinic_CESO_e11_e_AddOwner - INFO - Checking model PetClinic_CESO_e11_e_AddOwner...
+2020-12-18 15:37:21,124 - PetClinic_CESO_e11_e_AddOwner - INFO - CHECK PASSED in 2.2 seconds. Adding PetClinic_CESO_e11_e_AddOwner to alive check models.
+
+2020-12-18 15:37:21,124 - PetClinic_CESO_e12_e_FindOwners - INFO - Checking model PetClinic_CESO_e12_e_FindOwners...
+2020-12-18 15:37:23,374 - PetClinic_CESO_e12_e_FindOwners - INFO - CHECK PASSED in 2.25 seconds. Adding PetClinic_CESO_e12_e_FindOwners to alive check models.
+
+2020-12-18 15:37:23,374 - PetClinic_CESO_e13_e_CorrectNewOwnerData - INFO - Checking model PetClinic_CESO_e13_e_CorrectNewOwnerData...
+2020-12-18 15:37:25,601 - PetClinic_CESO_e13_e_CorrectNewOwnerData - INFO - CHECK PASSED in 2.23 seconds. Adding PetClinic_CESO_e13_e_CorrectNewOwnerData to alive check models.
+
+2020-12-18 15:37:25,602 - PetClinic_CESO_e14_e_IncorrectNewOwnerData - INFO - Checking model PetClinic_CESO_e14_e_IncorrectNewOwnerData...
+2020-12-18 15:37:28,232 - PetClinic_CESO_e14_e_IncorrectNewOwnerData - INFO - CHECK PASSED in 2.63 seconds. Adding PetClinic_CESO_e14_e_IncorrectNewOwnerData to alive check models.
+
+2020-12-18 15:37:28,232 - PetClinic_CESO_e15_e_NewOwnerFailed - INFO - Checking model PetClinic_CESO_e15_e_NewOwnerFailed...
+2020-12-18 15:37:30,415 - PetClinic_CESO_e15_e_NewOwnerFailed - INFO - CHECK PASSED in 2.18 seconds. Adding PetClinic_CESO_e15_e_NewOwnerFailed to alive check models.
+
+2020-12-18 15:37:30,415 - PetClinic_CESO_e16_e_FindOwners - INFO - Checking model PetClinic_CESO_e16_e_FindOwners...
+2020-12-18 15:37:32,650 - PetClinic_CESO_e16_e_FindOwners - INFO - CHECK PASSED in 2.23 seconds. Adding PetClinic_CESO_e16_e_FindOwners to alive check models.
+
+2020-12-18 15:37:32,650 - PetClinic_CESO_e17_e_AddNewPet - INFO - Checking model PetClinic_CESO_e17_e_AddNewPet...
+2020-12-18 15:37:34,765 - PetClinic_CESO_e17_e_AddNewPet - INFO - CHECK PASSED in 2.12 seconds. Adding PetClinic_CESO_e17_e_AddNewPet to alive check models.
+
+2020-12-18 15:37:34,765 - PetClinic_CESO_e18_e_AddNewPetSuccessful - INFO - Checking model PetClinic_CESO_e18_e_AddNewPetSuccessful...
+2020-12-18 15:37:36,909 - PetClinic_CESO_e18_e_AddNewPetSuccessful - INFO - CHECK PASSED in 2.14 seconds. Adding PetClinic_CESO_e18_e_AddNewPetSuccessful to alive check models.
+
+2020-12-18 15:37:36,909 - PetClinic_CESO_e19_e_AddNewPetFailed - INFO - Checking model PetClinic_CESO_e19_e_AddNewPetFailed...
+2020-12-18 15:37:39,218 - PetClinic_CESO_e19_e_AddNewPetFailed - INFO - CHECK PASSED in 2.31 seconds. Adding PetClinic_CESO_e19_e_AddNewPetFailed to alive check models.
+
+2020-12-18 15:37:39,218 - PetClinic_CESO_e20_e_EditPet - INFO - Checking model PetClinic_CESO_e20_e_EditPet...
+2020-12-18 15:37:41,700 - PetClinic_CESO_e20_e_EditPet - INFO - CHECK PASSED in 2.48 seconds. Adding PetClinic_CESO_e20_e_EditPet to alive check models.
+
+2020-12-18 15:37:41,701 - PetClinic_CESO_e21_e_UpdatePet - INFO - Checking model PetClinic_CESO_e21_e_UpdatePet...
+2020-12-18 15:37:44,321 - PetClinic_CESO_e21_e_UpdatePet - ERROR - CHECK FAILED in 2.62 seconds. Adding PetClinic_CESO_e21_e_UpdatePet to killed check models.
+
+2020-12-18 15:37:44,321 - PetClinic_CESO_e22_e_AddVisit - INFO - Checking model PetClinic_CESO_e22_e_AddVisit...
+2020-12-18 15:37:46,626 - PetClinic_CESO_e22_e_AddVisit - INFO - CHECK PASSED in 2.31 seconds. Adding PetClinic_CESO_e22_e_AddVisit to alive check models.
+
+2020-12-18 15:37:46,626 - PetClinic_CESO_e23_e_AddVisitSuccessful - INFO - Checking model PetClinic_CESO_e23_e_AddVisitSuccessful...
+2020-12-18 15:37:48,717 - PetClinic_CESO_e23_e_AddVisitSuccessful - INFO - CHECK PASSED in 2.09 seconds. Adding PetClinic_CESO_e23_e_AddVisitSuccessful to alive check models.
+
+2020-12-18 15:37:48,718 - PetClinic_CESO_e24_e_AddVisitFailed - INFO - Checking model PetClinic_CESO_e24_e_AddVisitFailed...
+2020-12-18 15:37:50,863 - PetClinic_CESO_e24_e_AddVisitFailed - INFO - CHECK PASSED in 2.15 seconds. Adding PetClinic_CESO_e24_e_AddVisitFailed to alive check models.
+
+2020-12-18 15:37:50,863 - CESO_results - INFO - Checking finished in 53.97 seconds! 22 models passed, 3 models failed.
+
+2020-12-18 15:37:50,863 - CESO_results - INFO - TESTING MODELS....................................................................................
+
+2020-12-18 15:37:50,863 - PetClinic_CESO_e0_e_startBrowser - INFO - Testing model PetClinic_CESO_e0_e_startBrowser...
+2020-12-18 15:38:14,702 - PetClinic_CESO_e0_e_startBrowser - INFO - TEST PASSED in 23.84 seconds. Adding PetClinic_CESO_e0_e_startBrowser to alive test models.
+
+2020-12-18 15:38:14,702 - PetClinic_CESO_e1_e_FindOwners - INFO - Testing model PetClinic_CESO_e1_e_FindOwners...
+2020-12-18 15:38:40,953 - PetClinic_CESO_e1_e_FindOwners - INFO - TEST PASSED in 26.25 seconds. Adding PetClinic_CESO_e1_e_FindOwners to alive test models.
+
+2020-12-18 15:38:40,953 - PetClinic_CESO_e2_e_HomePage - INFO - Testing model PetClinic_CESO_e2_e_HomePage...
+2020-12-18 15:39:03,095 - PetClinic_CESO_e2_e_HomePage - INFO - TEST PASSED in 22.14 seconds. Adding PetClinic_CESO_e2_e_HomePage to alive test models.
+
+2020-12-18 15:39:03,095 - PetClinic_CESO_e3_e_Veterinarians - INFO - Testing model PetClinic_CESO_e3_e_Veterinarians...
+2020-12-18 15:39:29,635 - PetClinic_CESO_e3_e_Veterinarians - INFO - TEST PASSED in 26.54 seconds. Adding PetClinic_CESO_e3_e_Veterinarians to alive test models.
+
+2020-12-18 15:39:29,636 - PetClinic_CESO_e4_e_HomePage - INFO - Testing model PetClinic_CESO_e4_e_HomePage...
+2020-12-18 15:39:52,143 - PetClinic_CESO_e4_e_HomePage - INFO - TEST PASSED in 22.51 seconds. Adding PetClinic_CESO_e4_e_HomePage to alive test models.
+
+2020-12-18 15:39:52,143 - PetClinic_CESO_e5_e_Veterinarians - INFO - Testing model PetClinic_CESO_e5_e_Veterinarians...
+2020-12-18 15:40:17,090 - PetClinic_CESO_e5_e_Veterinarians - INFO - TEST PASSED in 24.95 seconds. Adding PetClinic_CESO_e5_e_Veterinarians to alive test models.
+
+2020-12-18 15:40:17,090 - PetClinic_CESO_e6_e_FindOwners - INFO - Testing model PetClinic_CESO_e6_e_FindOwners...
+2020-12-18 15:40:40,434 - PetClinic_CESO_e6_e_FindOwners - INFO - TEST PASSED in 23.34 seconds. Adding PetClinic_CESO_e6_e_FindOwners to alive test models.
+
+2020-12-18 15:40:40,434 - PetClinic_CESO_e8_e_SearchVeterinarians - INFO - Testing model PetClinic_CESO_e8_e_SearchVeterinarians...
+2020-12-18 15:41:06,299 - PetClinic_CESO_e8_e_SearchVeterinarians - ERROR - TEST FAILED in 25.86 seconds. Adding PetClinic_CESO_e8_e_SearchVeterinarians to killed test models.
+
+2020-12-18 15:41:06,300 - PetClinic_CESO_e9_e_SearchOwners - INFO - Testing model PetClinic_CESO_e9_e_SearchOwners...
+2020-12-18 15:41:22,666 - PetClinic_CESO_e9_e_SearchOwners - ERROR - TEST FAILED in 16.36 seconds. Adding PetClinic_CESO_e9_e_SearchOwners to killed test models.
+
+2020-12-18 15:41:22,666 - PetClinic_CESO_e11_e_AddOwner - INFO - Testing model PetClinic_CESO_e11_e_AddOwner...
+2020-12-18 15:41:50,490 - PetClinic_CESO_e11_e_AddOwner - ERROR - TEST FAILED in 27.82 seconds. Adding PetClinic_CESO_e11_e_AddOwner to killed test models.
+
+2020-12-18 15:41:50,490 - PetClinic_CESO_e12_e_FindOwners - INFO - Testing model PetClinic_CESO_e12_e_FindOwners...
+2020-12-18 15:42:16,860 - PetClinic_CESO_e12_e_FindOwners - INFO - TEST PASSED in 26.37 seconds. Adding PetClinic_CESO_e12_e_FindOwners to alive test models.
+
+2020-12-18 15:42:16,860 - PetClinic_CESO_e13_e_CorrectNewOwnerData - INFO - Testing model PetClinic_CESO_e13_e_CorrectNewOwnerData...
+2020-12-18 15:42:40,779 - PetClinic_CESO_e13_e_CorrectNewOwnerData - ERROR - TEST FAILED in 23.92 seconds. Adding PetClinic_CESO_e13_e_CorrectNewOwnerData to killed test models.
+
+2020-12-18 15:42:40,779 - PetClinic_CESO_e14_e_IncorrectNewOwnerData - INFO - Testing model PetClinic_CESO_e14_e_IncorrectNewOwnerData...
+2020-12-18 15:43:04,866 - PetClinic_CESO_e14_e_IncorrectNewOwnerData - ERROR - TEST FAILED in 24.09 seconds. Adding PetClinic_CESO_e14_e_IncorrectNewOwnerData to killed test models.
+
+2020-12-18 15:43:04,867 - PetClinic_CESO_e15_e_NewOwnerFailed - INFO - Testing model PetClinic_CESO_e15_e_NewOwnerFailed...
+2020-12-18 15:43:27,712 - PetClinic_CESO_e15_e_NewOwnerFailed - INFO - TEST PASSED in 22.84 seconds. Adding PetClinic_CESO_e15_e_NewOwnerFailed to alive test models.
+
+2020-12-18 15:43:27,712 - PetClinic_CESO_e16_e_FindOwners - INFO - Testing model PetClinic_CESO_e16_e_FindOwners...
+2020-12-18 15:44:33,032 - PetClinic_CESO_e16_e_FindOwners - ERROR - TEST FAILED in 65.32 seconds. Adding PetClinic_CESO_e16_e_FindOwners to killed test models.
+
+2020-12-18 15:44:33,032 - PetClinic_CESO_e17_e_AddNewPet - INFO - Testing model PetClinic_CESO_e17_e_AddNewPet...
+2020-12-18 15:44:53,219 - PetClinic_CESO_e17_e_AddNewPet - ERROR - TEST FAILED in 20.19 seconds. Adding PetClinic_CESO_e17_e_AddNewPet to killed test models.
+
+2020-12-18 15:44:53,220 - PetClinic_CESO_e18_e_AddNewPetSuccessful - INFO - Testing model PetClinic_CESO_e18_e_AddNewPetSuccessful...
+2020-12-18 15:45:17,158 - PetClinic_CESO_e18_e_AddNewPetSuccessful - INFO - TEST PASSED in 23.94 seconds. Adding PetClinic_CESO_e18_e_AddNewPetSuccessful to alive test models.
+
+2020-12-18 15:45:17,158 - PetClinic_CESO_e19_e_AddNewPetFailed - INFO - Testing model PetClinic_CESO_e19_e_AddNewPetFailed...
+2020-12-18 15:45:48,769 - PetClinic_CESO_e19_e_AddNewPetFailed - ERROR - TEST FAILED in 31.61 seconds. Adding PetClinic_CESO_e19_e_AddNewPetFailed to killed test models.
+
+2020-12-18 15:45:48,769 - PetClinic_CESO_e20_e_EditPet - INFO - Testing model PetClinic_CESO_e20_e_EditPet...
+2020-12-18 15:46:15,924 - PetClinic_CESO_e20_e_EditPet - ERROR - TEST FAILED in 27.16 seconds. Adding PetClinic_CESO_e20_e_EditPet to killed test models.
+
+2020-12-18 15:46:15,925 - PetClinic_CESO_e22_e_AddVisit - INFO - Testing model PetClinic_CESO_e22_e_AddVisit...
+2020-12-18 15:49:38,559 - PetClinic_CESO_e22_e_AddVisit - ERROR - TEST TIMED OUT in 202.63 seconds. Adding PetClinic_CESO_e22_e_AddVisit to timed out test models.
+
+2020-12-18 15:49:38,559 - PetClinic_CESO_e23_e_AddVisitSuccessful - INFO - Testing model PetClinic_CESO_e23_e_AddVisitSuccessful...
+2020-12-18 15:49:59,927 - PetClinic_CESO_e23_e_AddVisitSuccessful - ERROR - TEST FAILED in 21.37 seconds. Adding PetClinic_CESO_e23_e_AddVisitSuccessful to killed test models.
+
+2020-12-18 15:49:59,927 - PetClinic_CESO_e24_e_AddVisitFailed - INFO - Testing model PetClinic_CESO_e24_e_AddVisitFailed...
+2020-12-18 15:50:28,895 - PetClinic_CESO_e24_e_AddVisitFailed - ERROR - TEST FAILED in 28.97 seconds. Adding PetClinic_CESO_e24_e_AddVisitFailed to killed test models.
+
+2020-12-18 15:50:28,895 - CESO_results - INFO - Testing finished in 758.03 seconds! 10 models passed, 11 models failed, 0 models crashed, 1 models timed out.
+
+2020-12-18 15:50:28,895 - CESO_results - INFO - RESULTS...........................................................................................
+
+2020-12-18 15:50:28,895 - CESO_results - INFO - Total models: 25
+
+2020-12-18 15:50:28,895 - CESO_results - INFO - Models that were syntactically invalid (failed altwalker check): (3)
+PetClinic_CESO_e7_e_ClearSearchVeterinarians
+PetClinic_CESO_e10_e_FindOwners
+PetClinic_CESO_e21_e_UpdatePet
+
+2020-12-18 15:50:28,896 - CESO_results - INFO - Models that were killed by failing one (or more) of the tests: (11)
+PetClinic_CESO_e8_e_SearchVeterinarians
+PetClinic_CESO_e9_e_SearchOwners
+PetClinic_CESO_e11_e_AddOwner
+PetClinic_CESO_e13_e_CorrectNewOwnerData
+PetClinic_CESO_e14_e_IncorrectNewOwnerData
+PetClinic_CESO_e16_e_FindOwners
+PetClinic_CESO_e17_e_AddNewPet
+PetClinic_CESO_e19_e_AddNewPetFailed
+PetClinic_CESO_e20_e_EditPet
+PetClinic_CESO_e23_e_AddVisitSuccessful
+PetClinic_CESO_e24_e_AddVisitFailed
+
+2020-12-18 15:50:28,897 - CESO_results - INFO - Models that were killed by crashing the tests: (0)
+
+
+2020-12-18 15:50:28,897 - CESO_results - INFO - Models that were killed by timing out: (1)
+PetClinic_CESO_e22_e_AddVisit
+
+2020-12-18 15:50:28,897 - CESO_results - INFO - Models that encoutered command line errors (should be 0 if not faulty input from cl): (0)
+
+
+2020-12-18 15:50:28,898 - CESO_results - INFO - Models that are still alive: (10)
+PetClinic_CESO_e0_e_startBrowser
+PetClinic_CESO_e1_e_FindOwners
+PetClinic_CESO_e2_e_HomePage
+PetClinic_CESO_e3_e_Veterinarians
+PetClinic_CESO_e4_e_HomePage
+PetClinic_CESO_e5_e_Veterinarians
+PetClinic_CESO_e6_e_FindOwners
+PetClinic_CESO_e12_e_FindOwners
+PetClinic_CESO_e15_e_NewOwnerFailed
+PetClinic_CESO_e18_e_AddNewPetSuccessful
+

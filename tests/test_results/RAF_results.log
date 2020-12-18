@@ -1,0 +1,43 @@
+2020-12-18 16:16:55,628 - RAF_results - INFO - CHECKING MODELS................................................................................
+
+2020-12-18 16:16:55,628 - PetClinic_RAF_e13_e_CorrectNewOwnerData - INFO - Checking model PetClinic_RAF_e13_e_CorrectNewOwnerData...
+2020-12-18 16:16:57,526 - PetClinic_RAF_e13_e_CorrectNewOwnerData - INFO - CHECK PASSED in 1.9 seconds. Adding PetClinic_RAF_e13_e_CorrectNewOwnerData to alive check models.
+
+2020-12-18 16:16:57,526 - PetClinic_RAF_e18_e_AddNewPetSuccessful - INFO - Checking model PetClinic_RAF_e18_e_AddNewPetSuccessful...
+2020-12-18 16:16:59,429 - PetClinic_RAF_e18_e_AddNewPetSuccessful - INFO - CHECK PASSED in 1.9 seconds. Adding PetClinic_RAF_e18_e_AddNewPetSuccessful to alive check models.
+
+2020-12-18 16:16:59,429 - RAF_results - INFO - Checking finished in 3.8 seconds! 2 models passed, 0 models failed.
+
+2020-12-18 16:16:59,430 - RAF_results - INFO - TESTING MODELS....................................................................................
+
+2020-12-18 16:16:59,430 - PetClinic_RAF_e13_e_CorrectNewOwnerData - INFO - Testing model PetClinic_RAF_e13_e_CorrectNewOwnerData...
+2020-12-18 16:17:19,054 - PetClinic_RAF_e13_e_CorrectNewOwnerData - ERROR - TEST FAILED in 19.62 seconds. Adding PetClinic_RAF_e13_e_CorrectNewOwnerData to killed test models.
+
+2020-12-18 16:17:19,054 - PetClinic_RAF_e18_e_AddNewPetSuccessful - INFO - Testing model PetClinic_RAF_e18_e_AddNewPetSuccessful...
+2020-12-18 16:17:43,934 - PetClinic_RAF_e18_e_AddNewPetSuccessful - ERROR - TEST FAILED in 24.88 seconds. Adding PetClinic_RAF_e18_e_AddNewPetSuccessful to killed test models.
+
+2020-12-18 16:17:43,934 - RAF_results - INFO - Testing finished in 44.5 seconds! 0 models passed, 2 models failed, 0 models crashed, 0 models timed out.
+
+2020-12-18 16:17:43,934 - RAF_results - INFO - RESULTS...........................................................................................
+
+2020-12-18 16:17:43,934 - RAF_results - INFO - Total models: 2
+
+2020-12-18 16:17:43,935 - RAF_results - INFO - Models that were syntactically invalid (failed altwalker check): (0)
+
+
+2020-12-18 16:17:43,935 - RAF_results - INFO - Models that were killed by failing one (or more) of the tests: (2)
+PetClinic_RAF_e13_e_CorrectNewOwnerData
+PetClinic_RAF_e18_e_AddNewPetSuccessful
+
+2020-12-18 16:17:43,935 - RAF_results - INFO - Models that were killed by crashing the tests: (0)
+
+
+2020-12-18 16:17:43,935 - RAF_results - INFO - Models that were killed by timing out: (0)
+
+
+2020-12-18 16:17:43,935 - RAF_results - INFO - Models that encoutered command line errors (should be 0 if not faulty input from cl): (0)
+
+
+2020-12-18 16:17:43,935 - RAF_results - INFO - Models that are still alive: (0)
+
+
